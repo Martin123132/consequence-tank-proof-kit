@@ -17,6 +17,15 @@ This repository is a public proof wrapper. It contains public-safe documentation
 
 It does not contain private source code, private evidence data, release artifacts, implementation internals, benchmark internals, private workflows, or private repository links.
 
+Public proof kit repository:
+
+`https://github.com/Martin123132/consequence-tank-proof-kit`
+
+Published baseline:
+
+- `2148cfe` - scaffold public proof kit
+- `1d4cb7c` - add publication safety controls
+
 ## Evidence Carried Forward
 
 Public-safe evidence in this kit includes:
@@ -36,7 +45,7 @@ It should not disclose enough implementation detail for a third party to reprodu
 
 ## Review Rule
 
-Before publication, run the publication safety check and manually review:
+Before future publication updates, run the publication safety check and manually review:
 
 - top-level public documents
 - proof cards

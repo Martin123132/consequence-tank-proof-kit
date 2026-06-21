@@ -4,7 +4,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$privateRepoPattern = "github[.]com/Martin123132/" + "consequence-tank"
+$privateRepoPattern = "github[.]com/Martin123132/" + "consequence-tank(?!-proof-kit)"
 $localUserPattern = "Users\\[^\\\s]+"
 
 $patterns = @(

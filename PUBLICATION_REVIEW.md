@@ -1,10 +1,16 @@
 # Publication Review
 
-Publication status: not published.
+Publication status: published.
 
-Remote status: no public remote configured at the time this review file was created.
+Remote:
 
-## Required Review Before Publishing
+`https://github.com/Martin123132/consequence-tank-proof-kit`
+
+Current publication branch:
+
+`main`
+
+## Required Review Before Future Publishing
 
 - Confirm this repository contains no private engine source.
 - Confirm this repository contains no private release artifacts.
@@ -52,3 +58,12 @@ Pay special attention to:
 - any private repository URL is present
 - any commercial licence is accidentally granted
 - any implementation details are detailed enough to recreate the private engine
+
+## Current Published Baseline
+
+- Initial scaffold commit: `2148cfe`
+- Publication-control commit: `1d4cb7c`
+- Safety check status at publication: passed
+- GitHub Actions: none configured
+
+Future proof-kit changes should be reviewed locally first, then published only after explicit approval.
