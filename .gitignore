@@ -1,0 +1,24 @@
+# Local/editor
+.env
+.env.*
+*.log
+desktop.ini
+Thumbs.db
+
+# Generated/review-only material
+.tmp/
+tmp/
+node_modules/
+dist/
+build/
+coverage/
+
+# Private material must not be committed here
+private/
+engine/
+source/
+*.zip
+*.tgz
+*.whl
+*.tar.gz
+*.ipynb

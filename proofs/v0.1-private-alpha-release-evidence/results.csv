@@ -1,0 +1,8 @@
+proof,checkpoint,result,public_safe_note
+unit_tests,v0.1-private-alpha,passed,62 tests passed in private validation
+enterprise_golden_path,v0.1-private-alpha,passed,private evidence-to-verification path passed
+production_build,v0.1-private-alpha,passed,React/Vite build passed
+production_dependency_audit,v0.1-private-alpha,passed,0 production vulnerabilities reported
+desktop_browser_qa,v0.1-private-alpha,passed,Run Compare Decide Audit anchors visible and console clean
+mobile_browser_qa,v0.1-private-alpha,passed,phase control stacked with no page-level horizontal overflow
+github_main_ci,v0.1-private-alpha,passed,promoted main commit passed CI
