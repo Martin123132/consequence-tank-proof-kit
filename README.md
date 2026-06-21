@@ -59,6 +59,9 @@ Start with:
 - [Commercial Use](COMMERCIAL_USE.md)
 - [Public Materials License](LICENSE.md)
 - [Proof Scope](PROOF_SCOPE.md)
+- [Private Engine Boundary](PRIVATE_ENGINE_BOUNDARY.md)
+- [Provenance](PROVENANCE.md)
+- [Publication Review](PUBLICATION_REVIEW.md)
 
 ## Buyer And Reviewer Materials
 
@@ -68,6 +71,8 @@ Start with:
 - [Interface screenshots](docs/interface-screenshots.md)
 - [Access request checklist](docs/access-request-checklist.md)
 - [Proof scope](PROOF_SCOPE.md)
+- [Private engine boundary](PRIVATE_ENGINE_BOUNDARY.md)
+- [Publication review](PUBLICATION_REVIEW.md)
 
 ## Publication Boundary
 
