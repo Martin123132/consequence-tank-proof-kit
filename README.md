@@ -70,9 +70,11 @@ Start with:
 - [Architecture overview](docs/architecture-overview.md)
 - [Interface screenshots](docs/interface-screenshots.md)
 - [Access request checklist](docs/access-request-checklist.md)
+- [Public positioning](docs/public-positioning.md)
 - [Proof scope](PROOF_SCOPE.md)
 - [Private engine boundary](PRIVATE_ENGINE_BOUNDARY.md)
 - [Publication review](PUBLICATION_REVIEW.md)
+- [Changelog](CHANGELOG.md)
 
 ## Publication Boundary
 
