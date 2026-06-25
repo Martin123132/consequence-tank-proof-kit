@@ -4,12 +4,14 @@ This proof kit records public-safe provenance for Consequence Tank without publi
 
 ## Private Engine Checkpoint
 
-- Private engine checkpoint: `v0.1-private-alpha`
-- Promoted private engine commit: `f25f275`
-- Release title: `Add guided evidence path`
+- Private engine checkpoint: `v0.1.1-private-alpha-readiness`
+- Promoted private engine commit: `fbaa75b`
+- Release title: `Add private alpha readiness release note`
 - Validation status: passed
 
-The private checkpoint passed local validation and GitHub CI before the private-alpha tag was moved.
+The private checkpoint passed the local private-alpha readiness gate before the
+readiness tag was created. The prior `v0.1-private-alpha` checkpoint at
+`f25f275` remains the first guided Evidence Path product checkpoint.
 
 ## Public Proof Kit
 
@@ -33,6 +35,7 @@ Public-safe evidence in this kit includes:
 - desktop guided Analytics screenshot
 - mobile guided Analytics screenshot
 - validation result summary
+- private readiness gate summary
 - guided Evidence Path evidence card
 - warehouse Tank evidence card
 - private-core/public-proof scope statement

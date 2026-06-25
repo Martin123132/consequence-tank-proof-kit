@@ -9,12 +9,13 @@ This public repository is not the product source code and is not an open-source 
 
 ## Public Proof Release
 
-The current private engine checkpoint is `v0.1-private-alpha`.
+The current private engine checkpoint is `v0.1.1-private-alpha-readiness`.
 
 Public-safe proof materials in this repo show:
 
 - guided Evidence Path UX
 - Simulation -> Analytics -> Evidence -> Audit product flow
+- repeatable private-alpha readiness gate
 - local-first evidence and audit packaging story
 - private CI and local validation status
 - private-core/public-proof publication boundary
@@ -22,10 +23,13 @@ Public-safe proof materials in this repo show:
 
 ## Locked Results
 
-The `v0.1-private-alpha` private checkpoint passed the local and GitHub validation gate.
+The `v0.1.1-private-alpha-readiness` private checkpoint passed the local
+readiness gate. The earlier `v0.1-private-alpha` checkpoint remains the first
+guided Evidence Path product checkpoint.
 
 | Proof | What it shows | Headline result |
 | --- | --- | ---: |
+| [Readiness checkpoint](proofs/v0.1.1-private-alpha-readiness/evidence_card.md) | Private local release gate and browser QA story | passed |
 | [Suite evidence](proofs/v0.1-private-alpha-release-evidence/README.md) | Combined private-alpha readiness gates | passed |
 | [Guided Evidence Path](proofs/v0.1-private-alpha-release-evidence/guided-evidence-path/evidence_card.md) | Analytics guides Run, Compare, Decide, and Audit | passed |
 | [Warehouse Tank](proofs/v0.1-private-alpha-release-evidence/warehouse-tank/evidence_card.md) | Consequence-aware warehouse simulation and evidence workflow | private alpha |
@@ -35,7 +39,11 @@ The `v0.1-private-alpha` private checkpoint passed the local and GitHub validati
 
 - Consequence Tank has a working private engine checkpoint.
 - The private app has a guided path from simulation to analytics, evidence, and audit.
-- The private release passed unit tests, golden-path automation, production build, dependency audit, browser desktop QA, and browser mobile QA.
+- The private release now has a repeatable local readiness gate for unit tests,
+  golden-path automation, production build, production dependency audit, and
+  public-proof export checks.
+- The private browser QA captures desktop/mobile guided Analytics evidence and
+  checks the Run, Compare, Decide, and Audit anchors.
 - The product can produce reviewable evidence packages, decision packages, governance events, and verifier surfaces.
 - The project has a public-safe access path without publishing implementation internals.
 
